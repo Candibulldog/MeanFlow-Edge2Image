@@ -53,7 +53,7 @@ The model demonstrates strong structural alignment with input edges while halluc
 ## Project Structure
 
 ```
-meanflow/
+MeanFlow-Edge2Image/
 ├── src/
 │   ├── config.py               # Configuration settings
 │   ├── train.py                # Training script
