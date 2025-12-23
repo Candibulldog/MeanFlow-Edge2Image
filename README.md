@@ -386,6 +386,17 @@ While MeanFlow theoretically supports multi-step integration, we observed a **"V
 - [Stable Diffusion VAE](https://huggingface.co/stabilityai/sd-vae-ft-mse) - Pre-trained VAE
 - [AFHQ](https://github.com/clovaai/stargan-v2) - Dataset
 
-## License
 
-MIT License
+## Citation
+
+If you find this code useful for your research, please consider citing:
+
+```bibtex
+@misc{meanflow-edge2image,
+  author = {Ezra KE},
+  title = {Edge-Conditioned One-Step Image Generation via MeanFlow},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/Candibulldog/MeanFlow-Edge2Image](https://github.com/Candibulldog/MeanFlow-Edge2Image)}}
+}
