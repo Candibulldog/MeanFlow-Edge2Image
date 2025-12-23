@@ -1,0 +1,15 @@
+# .gitignore
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+
+docs/
+data/
+checkpoints/
+*.pt
+*.pth
+
+logs/
+pyproject.toml
